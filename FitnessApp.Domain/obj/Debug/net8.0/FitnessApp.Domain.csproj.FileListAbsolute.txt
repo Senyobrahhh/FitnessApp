@@ -1,0 +1,11 @@
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/bin/Debug/net8.0/FitnessApp.Domain.deps.json
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/bin/Debug/net8.0/FitnessApp.Domain.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/bin/Debug/net8.0/FitnessApp.Domain.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.AssemblyInfoInputs.cache
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.AssemblyInfo.cs
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.csproj.CoreCompileInputs.cache
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/refint/FitnessApp.Domain.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/ref/FitnessApp.Domain.dll

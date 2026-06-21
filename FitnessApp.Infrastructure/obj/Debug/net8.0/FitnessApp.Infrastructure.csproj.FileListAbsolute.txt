@@ -1,0 +1,17 @@
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Infrastructure.deps.json
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Infrastructure.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Infrastructure.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Application.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Domain.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Domain.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/bin/Debug/net8.0/FitnessApp.Application.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.AssemblyInfo.cs
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessA.576E9634.Up2Date
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/refint/FitnessApp.Infrastructure.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/ref/FitnessApp.Infrastructure.dll

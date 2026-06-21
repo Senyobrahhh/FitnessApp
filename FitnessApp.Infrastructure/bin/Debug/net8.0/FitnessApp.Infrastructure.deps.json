@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FitnessApp.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FitnessApp.Application": "1.0.0",
+          "FitnessApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FitnessApp.Infrastructure.dll": {}
+        }
+      },
+      "FitnessApp.Application/1.0.0": {
+        "dependencies": {
+          "FitnessApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FitnessApp.Application.dll": {}
+        }
+      },
+      "FitnessApp.Domain/1.0.0": {
+        "runtime": {
+          "FitnessApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FitnessApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FitnessApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FitnessApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
