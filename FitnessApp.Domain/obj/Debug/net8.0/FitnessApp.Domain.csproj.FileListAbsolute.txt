@@ -9,3 +9,4 @@
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/refint/FitnessApp.Domain.dll
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.pdb
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/ref/FitnessApp.Domain.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Domain/obj/Debug/net8.0/FitnessApp.Domain.sourcelink.json

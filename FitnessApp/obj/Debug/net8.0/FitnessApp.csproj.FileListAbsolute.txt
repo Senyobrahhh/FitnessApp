@@ -36,3 +36,4 @@
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp/bin/Debug/net8.0/FitnessApp.Application.pdb
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp/bin/Debug/net8.0/FitnessApp.Infrastructure.pdb
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp/bin/Debug/net8.0/FitnessApp.Domain.pdb
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp/obj/Debug/net8.0/FitnessApp.sourcelink.json

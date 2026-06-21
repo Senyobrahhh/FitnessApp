@@ -15,3 +15,4 @@
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/refint/FitnessApp.Infrastructure.dll
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.pdb
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/ref/FitnessApp.Infrastructure.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Infrastructure/obj/Debug/net8.0/FitnessApp.Infrastructure.sourcelink.json

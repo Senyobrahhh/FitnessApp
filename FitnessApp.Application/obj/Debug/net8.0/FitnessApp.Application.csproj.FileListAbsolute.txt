@@ -13,3 +13,4 @@
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Application/obj/Debug/net8.0/refint/FitnessApp.Application.dll
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Application/obj/Debug/net8.0/FitnessApp.Application.pdb
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Application/obj/Debug/net8.0/ref/FitnessApp.Application.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Application/obj/Debug/net8.0/FitnessApp.Application.sourcelink.json
