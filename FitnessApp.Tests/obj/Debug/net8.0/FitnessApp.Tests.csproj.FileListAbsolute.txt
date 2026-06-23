@@ -101,3 +101,4 @@
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Tests/obj/Debug/net8.0/FitnessApp.Tests.pdb
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Tests/obj/Debug/net8.0/FitnessApp.Tests.genruntimeconfig.cache
 /Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Tests/obj/Debug/net8.0/ref/FitnessApp.Tests.dll
+/Users/enyochorbadzhiyski/Documents/Projects/FitnessApp/FitnessApp.Tests/obj/Debug/net8.0/FitnessApp.Tests.sourcelink.json
