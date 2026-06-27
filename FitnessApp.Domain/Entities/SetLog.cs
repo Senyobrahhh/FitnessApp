@@ -1,6 +1,6 @@
 namespace FitnessApp.Domain.Entities;
 
-public class SetLog
+public class SetLog : BaseEntity
 {
     public int WorkoutSessionId { get; set; }
     public WorkoutSession WorkoutSession { get; set; } = null;
