@@ -1,7 +1,9 @@
 using System.Text;
+using FitnessApp.Application.Interfaces.Repositories;
 using FitnessApp.Application.Interfaces.Services;
 using FitnessApp.Infrastructure.Data;
 using FitnessApp.Infrastructure.Identity;
+using FitnessApp.Infrastructure.Repositories;
 using FitnessApp.Infrastructure.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
@@ -56,6 +58,12 @@ public static class InfrastructureServiceRegistration
         
         services.AddAuthorization();
         services.AddScoped<IAuthService, AuthService>();
+        
+        services.AddScoped<IUserProfileRepository, UserProfileRepository>();
+        services.AddScoped<IExerciseRepository, ExerciseRepository>();
+        services.AddScoped<IFitnessProgramRepository, FitnessProgramRepository>();
+        services.AddScoped<IWorkoutRepository, WorkoutRepository>();
+        services.AddScoped<IWorkoutSessionRepository, WorkoutSessionRepository>();
         
         return services;
     }
